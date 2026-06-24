@@ -1,0 +1,13 @@
+# 1. Virtual Environment
+.venv/
+
+# 2. Data Directory
+data/
+
+# 3. Model Weights & Framework Artifacts (PyTorch & ONNX)
+*.pth
+*.onnx
+mnist_channels_last*
+
+# 4. Local AI / IDE Caches
+.claude/
