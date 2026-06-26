@@ -11,3 +11,5 @@ mnist_channels_last*
 
 # 4. Local AI / IDE Caches
 .claude/
+
+*.sh
